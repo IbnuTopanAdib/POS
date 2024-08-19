@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589055146477",
+    "project_id": "pos-sanbercode",
+    "storage_bucket": "pos-sanbercode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589055146477:android:ccb73c797ed998b1030fe4",
+        "android_client_info": {
+          "package_name": "com.example.final_project_sanbercode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANfb7s_6JAGA2_8t0rKewCpyWNK2E6EJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
